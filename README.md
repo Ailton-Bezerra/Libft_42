@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://github.com/Ailton-Bezerra/Ailton-Bezerra/blob/main/badges/libftm.png" alt="libft 42 project badge"/>
 <p align="center">
-<p align="center">
-  <strong>125/100</strong> 🌟
-</p>
+$${\color{lightgreen}125/100}$$ 🌟
 
 ## Description
 `ft_libft` is a custom C library recreating standard functions (memset, strlen, atoi) and adding utilities for strings, memory, and linked lists.
